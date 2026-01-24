@@ -44,6 +44,7 @@ plt.show()
 
 ## Output:
 Enter number of hours studied: 6
+
 Predicted Marks Scored: 89.38
 
 <img width="563" height="453" alt="ml-2" src="https://github.com/user-attachments/assets/23c6ac56-4a1c-454e-9a6d-2938aa11ecb5" />
