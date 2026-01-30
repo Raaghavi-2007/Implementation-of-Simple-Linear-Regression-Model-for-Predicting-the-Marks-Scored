@@ -43,11 +43,7 @@ plt.show()
 ```
 
 ## Output:
-Enter number of hours studied: 6
-
-Predicted Marks Scored: 89.38
-
-<img width="563" height="453" alt="ml-2" src="https://github.com/user-attachments/assets/23c6ac56-4a1c-454e-9a6d-2938aa11ecb5" />
+<img width="936" height="648" alt="Screenshot 2026-01-30 113108" src="https://github.com/user-attachments/assets/234d8422-cdc2-4bfe-aeae-bbdc08f7707c" />
 
 
 
