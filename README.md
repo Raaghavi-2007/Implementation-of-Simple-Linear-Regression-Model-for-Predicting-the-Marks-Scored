@@ -22,7 +22,7 @@ from sklearn.linear_model import LinearRegression
 
 X = np.array([1, 2, 3, 4, 5, 6]).reshape(-1, 1)
 
-Y = np.array([78, 56, 63, 89, 91, 86])
+Y = np.array([38, 42, 55, 60, 70, 79])
 
 model = LinearRegression()
 
@@ -44,7 +44,7 @@ plt.show()
 ```
 
 ## Output:
-<img width="936" height="648" alt="Screenshot 2026-01-30 113108" src="https://github.com/user-attachments/assets/234d8422-cdc2-4bfe-aeae-bbdc08f7707c" />
+<img width="877" height="642" alt="image" src="https://github.com/user-attachments/assets/1df28426-2745-4390-bdc4-30ed5e94030c" />
 
 
 
